@@ -1,0 +1,36 @@
+LHD	DataTang-v1.2
+DBN
+SES	category
+CMT	*** Speech Label Information ***
+FIP	data/category/010031.wav
+CCD	program
+REP	indoor
+RED
+RET
+CMT	*** Speech Data Coding ***
+SAM	16000
+SNB	2
+SBF	lohi
+SSB	16
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	O1,O2,O3,O4,O5,O6,O8,O9,O10,O11,O13,O14,O15,O16,O17,O18,O19,O20,O21,O22,O23,O24,O25,O27,O28,O29
+SEX	O1_Female,O2_Male,O3_Male,O4_Female,O5_Male,O6_Female,O8_Male,O9_Female,O10_Male,O11_Female,O13_Male,O14_Female,O15_Female,O16_Female,O17_Male,O18_Female,O19_Female,O20_Female,O21_Male,O22_Female,O23_Male,O24_Male,O25_Female,O27_Male,O28_Male,O29_Female
+AGE	
+ACC	
+ACT	
+BIR	
+CMT	*** Recording Conditions ***
+SNQ
+MIP	close
+MIT	
+SCC	Quiet
+CMT	*** Label File Body ***
+LBD	010031.txt
+LBR	583.5175
+LBO	190.2637603
+CMT	*** Customized Label Body ***
+SRA
+EMO
+ORS	

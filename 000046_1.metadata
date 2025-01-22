@@ -1,0 +1,36 @@
+LHD	DataTang-v1.2
+DBN
+SES	category
+CMT	*** Speech Label Information ***
+FIP	data/category/000046_1.wav
+CCD	program
+REP	indoor
+RED
+RET
+CMT	*** Speech Data Coding ***
+SAM	16000
+SNB	2
+SBF	lohi
+SSB	16
+QNT	wav
+NCH	1
+CMT	*** Speaker Information ***
+SCD	O2,O3,O4,O5,O6,O7,O8,O9,O10,O12,O13,O14
+SEX	O2_Male,O3_Female,O4_Female,O5_Female,O6_Female,O7_Female,O8_Male,O9_Male,O10_Male,O12_Female,O13_Female,O14_Female
+AGE	
+ACC	
+ACT	
+BIR	
+CMT	*** Recording Conditions ***
+SNQ
+MIP	close
+MIT	
+SCC	Quiet
+CMT	*** Label File Body ***
+LBD	000046_1.txt
+LBR	347.39375
+LBO	98.32620585546601
+CMT	*** Customized Label Body ***
+SRA
+EMO
+ORS	
